@@ -11,7 +11,7 @@
  *
  * @since unapp 1.0
  */
-
+if (!defined('ABSPATH')) exit;
 get_header(); ?>
 
     <?php unapp_page_header(); ?>
